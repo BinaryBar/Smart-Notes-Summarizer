@@ -9,7 +9,6 @@ Perfect for students, researchers, and professionals.
 - Copy summary with one click
 - Responsive and clean UI
 - Built with **HTML, CSS, JavaScript**
-- 🔮 Future Upgrade: Use **AI API** (OpenAI, Hugging Face)
 
 
 ---
@@ -17,13 +16,11 @@ Perfect for students, researchers, and professionals.
 ## 🌐 Live Demo
 👉 [Click here to try the app](https://your-username.github.io/Smart-Notes-Summarizer/)  
 
-*(Replace `your-username` with your GitHub username after hosting with GitHub Pages.)*
 
 ---
 
 ## 📸 Screenshot
 ![App Screenshot](screenshot.png)  
-*(Upload a screenshot named `screenshot.png` to your repo for this to work.)*
 
 ---
 
@@ -46,9 +43,4 @@ Sushmoy (BinaryBar) 🚀
 
 ---
 
-Made with ❤️ by Sushmoy Pal
-
----
-
 🚀 Built with ❤️ by **Sushmoy**
-
