@@ -20,7 +20,7 @@ Perfect for students, researchers, and professionals.
 ---
 
 ## 📸 Screenshot
-![App Screenshot](screenshot)  
+![App Screenshot](https://github.com/BinaryBar/Smart-Notes-Summarizer/blob/1279be999b96809eb61e990e6c12e81448fb5bf3/Screenshot.png)  
 
 ---
 
@@ -44,4 +44,5 @@ Sushmoy (BinaryBar) 🚀
 ---
 
 🚀 Built with ❤️ by **Sushmoy**
+
 
