@@ -14,13 +14,13 @@ Perfect for students, researchers, and professionals.
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to try the app](https://your-username.github.io/Smart-Notes-Summarizer/)  
+👉 [Click here to try the app](https://binarybar.github.io/Smart-Notes-Summarizer/)  
 
 
 ---
 
 ## 📸 Screenshot
-![App Screenshot](screenshot.png)  
+![App Screenshot](screenshot)  
 
 ---
 
@@ -44,3 +44,4 @@ Sushmoy (BinaryBar) 🚀
 ---
 
 🚀 Built with ❤️ by **Sushmoy**
+
